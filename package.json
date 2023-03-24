@@ -1,0 +1,22 @@
+{
+  "name": "zadanie_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianKrakowiak/zadanie_2.git"
+  },
+  "author": "Adrian Krakowiak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianKrakowiak/zadanie_2/issues"
+  },
+  "homepage": "https://github.com/AdrianKrakowiak/zadanie_2#readme",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^12.8.1"
+  }
+}
