@@ -7,7 +7,15 @@
 // commands please read more here:
 // https://on.cypress.io/custom-commands
 // ***********************************************
-//
+// Cypress.Commands.add("login", (username, password) => {
+//   const homePage = new HomePage();
+//   const loginPage = new LoginPage();
+
+//   homePage.getSignInButton().click();
+//   loginPage.getLoginInput().type(username);
+//   loginPage.getPasswordInput().type(password);
+//   loginPage.getSignInButton().click();
+// });
 //
 // -- This is a parent command --
 // Cypress.Commands.add('login', (email, password) => { ... })
